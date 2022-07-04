@@ -7,8 +7,7 @@ package com.penyo.dormitorygroupcounter;
  * 
  * <p>
  * 所以让我们终止这种苦恼罢！
- * Penyo推出的 {@code DormitoryGroupCounter} 能帮你快速完成计算！
- * 但最好不要试着算114514人寝的，因为一般家用电脑的性能都不太够。
+ * Penyo推出的 {@code DormitoryGroupCounter} 能帮你快速完成计算，并获得名人的点评（难视）！
  * 
  * @author Penyo
  */
