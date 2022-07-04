@@ -12,8 +12,8 @@ package com.penyo.dormitorygroupcounter;
  * 
  * @author Penyo
  */
-public class DormitoryGroupCounter {
+public class Main {
     public static void main(String[] args) {
-        System.out.println(new Core(6));
+        new GUI();
     }
 }
