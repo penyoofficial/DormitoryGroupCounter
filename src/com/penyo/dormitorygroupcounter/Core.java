@@ -21,8 +21,8 @@ public class Core {
     public Core(int people) {
         if (people < 0)
             people = -1;
-        if (people > 2333)
-            people = 2333;
+        if (people > 233)
+            people = 233;
         this.people = people;
     }
 
@@ -52,6 +52,7 @@ public class Core {
             case 6 -> "一般老式学校的历史包袱。";
             case 7 -> "咱就是说，没法更挤了！";
             case 8 -> "什么黑奴客轮？";
+            case 233 -> "差不多得了。";
             default -> "不予置评。";
         } + "——" + switch (new Random().nextInt(10)) {
             case 0 -> "鲁迅";

@@ -96,8 +96,8 @@ public class GUI {
 
             // 部署计算
             int people = Integer.parseInt(in.getText());
-            if (people > 2333)
-                in.setText("2333");
+            if (people > 233)
+                in.setText("233");
             Core c = new Core(people);
             new Thread() {
                 @Override
